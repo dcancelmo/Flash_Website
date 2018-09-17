@@ -76,6 +76,7 @@
       <p> The courses I am taking this semester includes CSC 174 Front End Web Development, CSC 294 : Future User Interface, CSC 244: Knowledge, Representation in AI, CSC 240: Data Mining .
       </p>
     </article>
-    
+    <p>This mixes all of the creator's home pages</p>
+
   </body>
 </html>
