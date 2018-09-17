@@ -1,0 +1,7 @@
+body {
+	margin: 0 auto;
+	width: 90%; /*edit this to fit webpage better*/
+	max-width: 960px;
+	font-family: 'Muli', sans-serif;
+	background-color: lightblue;
+}
