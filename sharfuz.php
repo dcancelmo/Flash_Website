@@ -78,5 +78,7 @@
     </article>
     <p>This mixes all of the creator's home pages</p>
 
+  <a href= "http://csc174.org/assignment01/sshifat/Assignment01/index.html">Original page </a>
+
   </body>
 </html>
