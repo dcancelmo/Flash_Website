@@ -9,7 +9,9 @@
 	</head>
 
 	<body>
-		<h1>Flash Website</h1>
+		<header>
+			<h1>Flash Website</h1>
+		</header>
 		<nav>
 			<ul>
 				<li>
@@ -29,6 +31,11 @@
 				</li>
 			</ul>
 		</nav>
+
+		<article>
+			<h2>Our Website</h2>
+			<p>This mixes all of the creator's home pages</p>
+		</article>
 	</body>
 
 </html>
