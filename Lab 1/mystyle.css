@@ -1,0 +1,141 @@
+h1{
+    font-size: 3em;
+    text-align: center;
+}
+
+h2{
+    margin-right: 50%;
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.menu{
+    display: inline;
+    float:right;
+    padding-right:35%;
+}
+
+body{
+    background-color: lightblue;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: 20px;    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    float: left;
+    padding: 10px;
+
+}
+
+ul li a{
+    color: darkblue;
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+
+}
+
+ul li a:active{
+    color: white;
+}
+ul li a.current{
+    color: lightcoral;
+}
+
+h2{
+   margin-right: 50%; 
+   font-size:2em;
+    
+}
+
+.name{
+    font-size: 20px;
+}
+
+.info img{
+    float:left;
+    width:25%;
+    height:25%;
+    padding-left: 0.5em;
+    text-align: center;
+    border-radius: 50%;
+
+}
+
+.info h2{
+    float:right;
+    padding-top: 10px;
+    font-size: 2em;
+    margin-left: 2%;
+}
+.info p{
+    text-align: center;
+    font-size: 3em;
+}
+
+
+
+ title{
+     font-size: 1em;
+ }
+
+ .logo img{
+    float:left;
+    height:15%;
+     width: 15%;
+     padding-top:10px;
+     text-align: center;
+     padding-right:10px;
+     display:flex;
+ }
+
+ .logo p{
+    
+    padding-left:10px;
+     text-align: center;
+     font-size: 30px;
+
+ }
+
+
+ .rha img{
+     padding-top:15px;
+     padding-right:15px;
+     width: 10%;
+     height:10%;
+ }
+ .mlp img{
+     padding-top:10px;
+     width: 10%;
+     height:10%;
+ }
+
+ .ooo img{
+    padding-top:10px;
+     width: 10%;
+     height:10%;
+ }
+ .involvement-text{
+     padding-left: 10px;
+     text-align: center;
+     overflow: hidden;
+     padding-left: 10px;
+     padding-right: 10px;
+     font-size: 2em; 
+    }
+
+ .job-description{
+     float:right;
+ }   
+.job-description p{
+    font-size:2em;
+    float:right;    
+}
