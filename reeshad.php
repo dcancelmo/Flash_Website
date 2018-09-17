@@ -8,7 +8,9 @@
 </head>
 
 <body>
-
+	<header>
+		<h1>Flash Website</h1>
+	</header>
 	<nav>
 		<ul>
 			<li>
@@ -32,7 +34,7 @@
 	<h1>Reeshad Rahman</h1>
 		
 		<figure>
-			<img src="media/louvre.jpg" alt="backshot">
+			<img src="images/reeshad.jpg" alt="backshot">
 			<figcaption>Back shot of me standing in front of the Louvre Museum in France</figcaption>
 		</figure>
 

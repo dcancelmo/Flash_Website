@@ -7,6 +7,9 @@
   </head>
 
   <body>
+    <header>
+      <h1>Flash Website</h1>
+    </header>
     <nav>
       <ul>
         <li>

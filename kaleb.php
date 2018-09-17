@@ -9,7 +9,9 @@
 	</head>
 
 	<body>
-
+		<header>
+			<h1>Flash Website</h1>
+		</header>
 		<nav>
 			<ul>
 				<li>
@@ -30,12 +32,9 @@
 			</ul>
 		</nav>
 
-		<header>
-
-			<img src="images/kaleb.jpg" alt="My Picture">
-			<h1 id="title">Kaleb Chitaphong</h1>
-
-		</header>
+			
+		<h1 id="title">Kaleb Chitaphong</h1>
+		<img src="images/kaleb.jpg" alt="My Picture">
 
 		<article>
 
