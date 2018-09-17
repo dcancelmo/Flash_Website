@@ -28,7 +28,7 @@
 			</li>
 
 			<li>
-				<a href="reeshad.php">Reeshad</a>
+				<a href="reeshad.php" class="active">Reeshad</a>
 			</li>
 		</ul>
 	</nav>

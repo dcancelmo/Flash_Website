@@ -23,7 +23,7 @@
         </li>
 
         <li>
-          <a href="sharfuz.php">Sharfuz</a>
+          <a href="sharfuz.php" class="active">Sharfuz</a>
         </li>
 
         <li>

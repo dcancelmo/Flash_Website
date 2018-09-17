@@ -21,7 +21,7 @@
 				</li>
 
 				<li>
-					<a href="kaleb.php">Kaleb</a>
+					<a href="kaleb.php" class="active">Kaleb</a>
 				</li>
 
 				<li>
