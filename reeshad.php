@@ -73,11 +73,8 @@
 
 	</article>
 
-<<<<<<< HEAD
-=======
-	<p>http://csc174.org/assignment01/rrahman/assignment01/start.html</p>
+	<a href="http://csc174.org/assignment01/rrahman/assignment01/start.html">Original Page</a>
 
->>>>>>> 12a05db764c603a8db8042dbdf146f50a062fc88
 </body>
 
 </html>
