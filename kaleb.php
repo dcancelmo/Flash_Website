@@ -12,7 +12,7 @@
 
 		<header>
 
-			<img src="images/picture.jpg" alt="My Picture">
+			<img src="images/kaleb.jpg" alt="My Picture">
 			<h1 id="title">Kaleb Chitaphong</h1>
 
 		</header>
