@@ -9,6 +9,26 @@
 
 <body>
 
+	<nav>
+		<ul>
+			<li>
+				<a href="index.php">Home</a>
+			</li>
+
+			<li>
+				<a href="kaleb.php">Kaleb</a>
+			</li>
+
+			<li>
+				<a href="sharfuz.php">Sharfuz</a>
+			</li>
+
+			<li>
+				<a href="reeshad.php">Reeshad</a>
+			</li>
+		</ul>
+	</nav>
+
 	<h1>Reeshad Rahman</h1>
 		
 		<figure>
@@ -47,7 +67,6 @@
 
 		<p>With any good undergraduate career, jobs must be held to reinforce learning. For my junior summer session, I have had the opportunity to work at an internship at a Michigan hospital as a research assistant. This opportunity taught me many things, mainly about patience and determination. The other jobs that I have held at the University were mostly office jobs at the hospital, but this summer internship has taught me more about core values and, equally as important, the hospital setting and what it was like.</p>
 
-	</article>
 </body>
 
 </html>
