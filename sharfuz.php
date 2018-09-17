@@ -48,11 +48,11 @@
       <h2 >My Meliora Life</h2>
 
       <div class="logo"> 
-        <img src="./images/mlp.png" alt="img2" >
+        <img src="images/mlp.png" alt="img2" >
        
-        <img src="./images/RHA.png" alt="img2" >
+        <img src="images/RHA.png" alt="img2" >
 
-        <img src="./images/ooo.jpg" alt="img2" >
+        <img src="images/ooo.jpg" alt="img2" >
            
       </div>
             
