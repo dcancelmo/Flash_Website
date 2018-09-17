@@ -21,7 +21,7 @@
 				</li>
 
 				<li>
-					<a href="kaleb.php">Kaleb</a>
+					<a href="kaleb.php" class="active">Kaleb</a>
 				</li>
 
 				<li>
@@ -65,6 +65,8 @@
 			<p>An interesting part of my origin is my heritage on my father’s side specifically. My father was born in Laos, which is a small country in South East Asia which is not represented much in the United States. The country is very small, and because of this most people in the United States have not heard of the country or its rich history. I have visited twice, however I would like to take more trips back and learn the language and the culture first hand. The country is developing quickly, and I am interested in its future. </p>
 
 		</article>
+
+		<a href="http://www.csc174.org/assignment01/kchitap/index.html">Original Page</a>
 
 	</body>
 

@@ -28,7 +28,7 @@
 			</li>
 
 			<li>
-				<a href="reeshad.php">Reeshad</a>
+				<a href="reeshad.php" class="active">Reeshad</a>
 			</li>
 		</ul>
 	</nav>
@@ -71,6 +71,13 @@
 
 		<p>With any good undergraduate career, jobs must be held to reinforce learning. For my junior summer session, I have had the opportunity to work at an internship at a Michigan hospital as a research assistant. This opportunity taught me many things, mainly about patience and determination. The other jobs that I have held at the University were mostly office jobs at the hospital, but this summer internship has taught me more about core values and, equally as important, the hospital setting and what it was like.</p>
 
+	</article>
+
+<<<<<<< HEAD
+=======
+	<p>http://csc174.org/assignment01/rrahman/assignment01/start.html</p>
+
+>>>>>>> 12a05db764c603a8db8042dbdf146f50a062fc88
 </body>
 
 </html>
