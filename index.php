@@ -9,7 +9,7 @@
 	</head>
 
 	<body>
-		<h1>Three Pages</h1>
+		<h1>Flash Website</h1>
 		<nav>
 			<ul>
 				<li>
