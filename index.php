@@ -4,7 +4,8 @@
 
 	<head>
 		<meta charset="UTF-8">
-		<title>Kaleb Chitaphong Site</title>
+		<title>Flash Website</title>
+		<link rel="stylesheet" type="text/css" href="css/styles.css">
 
 	</head>
 
