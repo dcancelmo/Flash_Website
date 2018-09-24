@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US">
 	<?php include "inc/head";?>
 	<body>
 		<?php include "inc/header.inc";?>
 		<?php include "inc/menu.inc";?>
 			
-		<h1 id="title">Kaleb Chitaphong</h1>
+		<h1>Kaleb Chitaphong</h1>
 		<img src="images/kaleb.jpg" alt="My Picture">
 
 		<article>

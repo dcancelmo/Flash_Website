@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US">
 	<?php include "inc/head";?>
 	<body>
 		<?php include "inc/header.inc";?>     
@@ -10,7 +10,7 @@
 		<article>
 			<h2>About Me</h2>
 			<figure>    
-			<img src="./images/sharfuz_sifat.jpg" alt="img1" >
+			<img src="images/sharfuz_sifat.jpg" alt="img1" >
 			</figure>
 			<p>
 			I am an international student from Bangladesh studying at the University of Rochester, NY. 
