@@ -11,8 +11,8 @@
 	</head>
 
 	<body>
-		<?php include "inc/header.inc";?>     
-		<?php include "inc/menu.inc";?>     
+		<?php include "inc/header.inc";?>
+		<?php include "inc/menu.inc";?>
 
 			
 		<h1 id="title">Kaleb Chitaphong</h1>
@@ -48,8 +48,7 @@
 
 		<a href="http://www.csc174.org/assignment01/kchitap/index.html">Original Page</a>
 
-<script src="http://code.jquery.com/jquery.js"></script>
-  <script src="js/menu-highlighter.js"></script>
+		<?php include "inc/scripts.inc"; ?>
 
 	</body>
 
