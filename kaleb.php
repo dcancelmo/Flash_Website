@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-
 <html lang="en">
-
 	<head>
 		<meta charset="UTF-8">
 		<title>Flash Website</title>
@@ -9,11 +7,9 @@
 		<link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
 
 	</head>
-
 	<body>
 		<?php include "inc/header.inc";?>
 		<?php include "inc/menu.inc";?>
-
 			
 		<h1 id="title">Kaleb Chitaphong</h1>
 		<img src="images/kaleb.jpg" alt="My Picture">
@@ -51,5 +47,4 @@
 		<?php include "inc/scripts.inc"; ?>
 
 	</body>
-
 </html>
