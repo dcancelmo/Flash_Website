@@ -39,8 +39,6 @@
 			<h2>My Courses</h2>
 			<p> The courses I am taking this semester includes CSC 174 Front End Web Development, CSC 294 : Future User Interface, CSC 244: Knowledge, Representation in AI, CSC 240: Data Mining .</p>
 		</article>
-		<p>This mixes all of the creator's home pages</p>
-
 		<a href= "http://csc174.org/assignment01/sshifat/Assignment01/index.html">Original page</a>
 
 		<?php include "inc/scripts.inc"; ?>
