@@ -4,8 +4,13 @@
 	<body>
 		<?php include "inc/menu.inc";?>
 			
+<<<<<<< HEAD
+		<h1 id="title">Kaleb Chitaphong</h1>
+		<img src="images/kaleb.jpg" alt="Portrait of Kaleb Chitaphong ">
+=======
 		<h1>Kaleb Chitaphong</h1>
 		<img src="images/kaleb.jpg" alt="My Picture">
+>>>>>>> 1b4b1df4d7ad8ae8db2c79c6eb56683c6b913d5f
 
 		<article>
 
