@@ -25,7 +25,6 @@
 		</article>
 
 		<a href="http://www.csc174.org/assignment01/kchitap/index.html">Original Page</a>
-
 		<?php include "inc/scripts.inc"; ?>
 	</body>
 </html>
