@@ -19,7 +19,7 @@
 		<article>
 			<h2 >My Meliora Life</h2>
 
-			<div class="logo"> 
+			<div> 
 				<img src="images/mlp.png" alt="img2">
 				
 				<img src="images/RHA.png" alt="img2">
