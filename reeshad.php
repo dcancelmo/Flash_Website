@@ -10,29 +10,8 @@
 </head>
 
 <body>
-	<header>
-		<h1>Flash Website</h1>
-	</header>
-	<nav>
-		<ul>
-			<li>
-				<a href="index.php">Home</a>
-			</li>
-
-			<li>
-				<a href="kaleb.php">Kaleb</a>
-			</li>
-
-			<li>
-				<a href="sharfuz.php">Sharfuz</a>
-			</li>
-
-			<li>
-				<a href="reeshad.php" class="active">Reeshad</a>
-			</li>
-		</ul>
-	</nav>
-
+<?php include "inc/header.inc";?>     
+		<?php include "inc/menu.inc";?>     
 	<h1>Reeshad Rahman</h1>
 		
 		<figure>
@@ -75,6 +54,8 @@
 
 	<a href="http://csc174.org/assignment01/rrahman/assignment01/start.html">Original Page</a>
 
+<script src="http://code.jquery.com/jquery.js"></script>
+  <script src="js/menu-highlighter.js"></script>
 </body>
 
 </html>

@@ -11,28 +11,8 @@
 	</head>
 
 	<body>
-		<header>
-			<h1>Flash Website</h1>
-		</header>
-		<nav>
-			<ul>
-				<li>
-					<a href="index.php">Home</a>
-				</li>
-
-				<li>
-					<a href="kaleb.php" class="active">Kaleb</a>
-				</li>
-
-				<li>
-					<a href="sharfuz.php">Sharfuz</a>
-				</li>
-
-				<li>
-					<a href="reeshad.php">Reeshad</a>
-				</li>
-			</ul>
-		</nav>
+		<?php include "inc/header.inc";?>     
+		<?php include "inc/menu.inc";?>     
 
 			
 		<h1 id="title">Kaleb Chitaphong</h1>
@@ -67,6 +47,9 @@
 		</article>
 
 		<a href="http://www.csc174.org/assignment01/kchitap/index.html">Original Page</a>
+
+<script src="http://code.jquery.com/jquery.js"></script>
+  <script src="js/menu-highlighter.js"></script>
 
 	</body>
 

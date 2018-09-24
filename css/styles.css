@@ -32,6 +32,9 @@ li a {
     text-decoration: none;
 }
 
-.active {
-	background-color: blue;
+
+
+.is-current{
+    background-color: blue;
+
 }

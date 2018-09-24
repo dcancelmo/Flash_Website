@@ -11,33 +11,17 @@
 	</head>
 
 	<body>
-		<header>
-			<h1>Flash Website</h1>
-		</header>
-		<nav>
-			<ul>
-				<li>
-					<a href="index.php" class="active">Home</a>
-				</li>
-
-				<li>
-					<a href="kaleb.php">Kaleb</a>
-				</li>
-
-				<li>
-					<a href="sharfuz.php">Sharfuz</a>
-				</li>
-
-				<li>
-					<a href="reeshad.php">Reeshad</a>
-				</li>
-			</ul>
-		</nav>
+	<?php include "inc/header.inc";?>     
+		<?php include "inc/menu.inc";?>     
+		
 
 		<article>
 			<h2>Our Website</h2>
 			<p>This mixes all of the creator's home pages</p>
 		</article>
+	
+		<script src="http://code.jquery.com/jquery.js"></script>
+  <script src="js/menu-highlighter.js"></script>
 	</body>
 
 </html>

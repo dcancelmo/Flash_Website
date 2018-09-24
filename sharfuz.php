@@ -9,28 +9,8 @@
   </head>
 
   <body>
-    <header>
-      <h1>Flash Website</h1>
-    </header>
-    <nav>
-      <ul>
-        <li>
-          <a href="index.php">Home</a>
-        </li>
-
-        <li>
-          <a href="kaleb.php">Kaleb</a>
-        </li>
-
-        <li>
-          <a href="sharfuz.php" class="active">Sharfuz</a>
-        </li>
-
-        <li>
-          <a href="reeshad.php">Reeshad</a>
-        </li>
-      </ul>
-    </nav>
+  <?php include "inc/header.inc";?>     
+		<?php include "inc/menu.inc";?>     
 
     <h1>Sharfuz Z Shifat</h1>
     
@@ -79,6 +59,9 @@
     <p>This mixes all of the creator's home pages</p>
 
   <a href= "http://csc174.org/assignment01/sshifat/Assignment01/index.html">Original page </a>
+
+<script src="http://code.jquery.com/jquery.js"></script>
+  <script src="js/menu-highlighter.js"></script>
 
   </body>
 </html>
