@@ -5,14 +5,13 @@
 		<?php include "inc/menu.inc";?>
 
 		<h1>Reeshad Rahman</h1>
-			
-			<figure>
-				<img src="images/reeshad.jpg" alt="backshot">
-				<figcaption>Reeshad at the Louvre Museum in France</figcaption>
-			</figure>
+		<figure>
+			<img src="images/reeshad.jpg" alt="backshot">
+			<figcaption>Reeshad at the Louvre Museum in France</figcaption>
+		</figure>
 
-			<div>"Major in Computational Biology with a Minor in Computer Science"</div>
-			<div>"Hobbies include listening to music, playing/watching soccer, and cooking"</div>
+		<div>"Major in Computational Biology with a Minor in Computer Science"</div>
+		<div>"Hobbies include listening to music, playing/watching soccer, and cooking"</div>
 
 		<article>
 			<h2>Growing Up</h2>
