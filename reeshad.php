@@ -11,8 +11,8 @@
 				<figcaption>Reeshad at the Louvre Museum in France</figcaption>
 			</figure>
 
-			<h1 class="description">"Major in Computational Biology with a Minor in Computer Science"</h1>
-			<h1 class="description">"Hobbies include listening to music, playing/watching soccer, and cooking"</h1>
+			<div>"Major in Computational Biology with a Minor in Computer Science"</div>
+			<div>"Hobbies include listening to music, playing/watching soccer, and cooking"</div>
 
 		<article>
 			<h2>Growing Up</h2>
