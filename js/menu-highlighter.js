@@ -1,24 +1,4 @@
-//	*****************************
-//	Prep...
-//	*****************************
-// This script depends on jQuery; put this in your HTML file...
-// 	<script src="http://code.jquery.com/jquery.js"></script>
-// 
-// And then link to this JS file...
-// 	<script src="js/menu-highlighter.js"></script>
-//
-// This script assumes you created some CSS to style the ".is-current" class
-// Put something like this in your CSS...
-// 	.is-current {
-// 		background-color: black;
-// 		color: white;
-// 	}
-
-
-//	*****************************
-//	The way this works...
-//	*****************************
-
+//Code provided by Prof. Robert Kostin
 //	This function will return the current file name
 function currentFile() {
 	// Step 1: grab the current "location" (URL) of this webpage and put it in a variable

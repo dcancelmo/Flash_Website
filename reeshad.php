@@ -11,8 +11,8 @@
 				<figcaption>Back shot of me standing in front of the Louvre Museum in France</figcaption>
 			</figure>
 
-			<h1 class="description">"Major in Computational Biology with a Minor in Computer Science"</h1>
-			<h1 class="description">"Hobbies include listening to music, playing/watching soccer, and cooking"</h1>
+			<h1>"Major in Computational Biology with a Minor in Computer Science"</h1>
+			<h1>"Hobbies include listening to music, playing/watching soccer, and cooking"</h1>
 
 		<article>
 			<h2>Growing Up</h2>
