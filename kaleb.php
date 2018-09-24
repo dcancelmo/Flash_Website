@@ -6,7 +6,7 @@
 		<?php include "inc/menu.inc";?>
 			
 		<h1 id="title">Kaleb Chitaphong</h1>
-		<img src="images/kaleb.jpg" alt="My Picture">
+		<img src="images/kaleb.jpg" alt="Portrait of Kaleb Chitaphong ">
 
 		<article>
 
