@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
-	<?php include "inc/head";?>
+<html lang="en-US">
+	<?php include "inc/head.inc";?>
 	<body>
-		<?php include "inc/header.inc";?>
 		<?php include "inc/menu.inc";?>
 		<article>
 			<h2>Our Website</h2>
