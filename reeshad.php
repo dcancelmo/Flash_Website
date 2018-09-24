@@ -2,7 +2,6 @@
 <html lang="en-US">
 	<?php include "inc/head.inc";?>
 	<body>
-		<?php include "inc/header.inc";?>
 		<?php include "inc/menu.inc";?>
 
 		<h1>Reeshad Rahman</h1>
