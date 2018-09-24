@@ -17,18 +17,7 @@
 			 My home town is the capital of Bangladesh called Dhaka.</p>
 
 			<h2 >My Meliora Life</h2>
-<<<<<<< HEAD
-=======
 
-			<div> 
-				<img src="images/mlp.png" alt="img2">
-				
-				<img src="images/RHA.png" alt="img2">
-
-				<img src="images/ooo.jpg" alt="img2">
-			</div>
-				
->>>>>>> 74075088391c9937ecc0c98f5b4e1b5041c965d5
 			<p> As a freshman I was an EcoRep. I loved that position as it allowed me to learn a lot about sustainable living style and also aware my peer mates about recycling and reducing their carbon foot print.I have always been highly interested in Entrepreneurship. When I recognized that there wasn’t a proper entrepreneurial ecosystem at UR, I decided to make one. With my friend I co-founded Meliora LaunchPad, which is the undergraduate entrepreneurship student organization at University of Rochester. I am currently the President of the organization. My two other notable involvement includes being the co-founder of Residence Hall Association (RHA) and also being the current president of Order of Omega.</p>
 
 			<h2>My Jobs</h2>
@@ -37,10 +26,7 @@
 			<h2>My Courses</h2>
 			<p> The courses I am taking this semester includes CSC 174 Front End Web Development, CSC 294 : Future User Interface, CSC 244: Knowledge, Representation in AI, CSC 240: Data Mining .</p>
 		</article>
-<<<<<<< HEAD
 
-=======
->>>>>>> 74075088391c9937ecc0c98f5b4e1b5041c965d5
 		<a href= "http://csc174.org/assignment01/sshifat/Assignment01/index.html">Original page</a>
 
 		<?php include "inc/scripts.inc"; ?>
