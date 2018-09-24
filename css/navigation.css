@@ -1,0 +1,38 @@
+/* CSS inspired by:
+	http://csc174.org/assignment02/mthurston/  
+*/
+
+
+/* THIS PAGE ISN'T LINKED YET...
+*/
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #94B888;
+	border: 2px solid black;
+}
+
+nav li {
+	display: inline-block;
+}
+
+nav a {
+	display: block;
+	padding: 10px;
+	color: white;
+	text-decoration: none;
+}
+
+nav a:visited {
+	color: #23628A;
+}
+
+nav a:hover {
+	background-color: #808080;
+}
+
+
+.is-current {
+	background-color: black;

@@ -1,0 +1,10 @@
+/* CSS inspired by:
+	http://csc174.org/assignment02/mthurston/  
+*/
+
+
+body {
+	margin: 0 auto;
+	width: 90%;
+	max-width: 960px;
+}
