@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-	<?php include "inc/head.inc";?>
+	<?php 
+		$title = "Student Pages";
+		include "inc/head.php";?>
 
 
 	<body>

@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en-US">
-	<?php include "inc/head.inc";?>
+	<?php 
+		$title = "Kaleb Chitaphong";
+		include "inc/head.php";?>
 	<body>
 		<?php include "inc/menu.inc";?>
 			
