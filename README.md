@@ -10,7 +10,7 @@ For convenience sake, profiles are arranged in alphabetical order of last name.
 In addition to the three profiles it also contains an index page, which simply actas as a welcome page to the website, and links back to all three of the profiles, as well as showcasing the sources for this data on the page._ 
 
 # Kaleb Chitaphong(Name of person being profiled)
-![Portrait of Kaleb Chitaphong](https://github.com/dcancelmo/Flash_Website/master/src/common/images/kaleb.png "Kaleb(right) smiling"
+![Portrait of Kaleb Chitaphong](https://github.com/dcancelmo/Flash_Website/images/kaleb.png "Kaleb(right) smiling"
 
 ## About Me
 This paragraph explains place of birth, family life and a few personal details. 
