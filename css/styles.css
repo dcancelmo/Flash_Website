@@ -8,3 +8,27 @@ body {
 	width: 90%;
 	max-width: 960px;
 }
+
+body {
+	color: #072747;
+	background-color: #E1EEFF;
+}
+
+img {
+	border: 2px solid black;
+}
+
+/*
+Saved colors:
+	#FFF973;
+
+	University of Rochester logo:
+		#FDDD00; (yellow)
+		#07407B; (blue)
+
+	Sky in Reeshad's photo: #99BAE3;
+
+	color: #06325F; (dark blue)
+	background-color: #CDE1FA; (light blue)
+
+*/

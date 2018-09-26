@@ -11,7 +11,7 @@ nav ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	background-color: #9ABAE3;
+	background-color: #99BAE3;
 	border: 2px solid black;
 }
 
@@ -22,12 +22,12 @@ nav li {
 nav a {
 	display: block;
 	padding: 10px;
-	color: white;
+	color: #07407B;
 	text-decoration: none;
 }
 
 nav a:visited {
-	color: white;
+	color: #07407B;
 }
 
 nav a:hover {
@@ -36,5 +36,5 @@ nav a:hover {
 
 
 .is-current {
-	background-color: 374873;
+	background-color: white;
 }
