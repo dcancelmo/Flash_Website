@@ -4,7 +4,7 @@
 		$title = "Sharfuz Shifat";
 		include "inc/head.php";?>
 	<body>
-		<?php include "inc/menu.inc";?>
+		<?php include "inc/menu.php";?>
 
 		<h1>Sharfuz Z Shifat</h1>
 		<figure>
@@ -28,6 +28,6 @@
 		<a href= "http://csc174.org/assignment01/sshifat/Assignment01/index.html">Original page</a>
 		</footer>
 
-		<?php include "inc/scripts.inc"; ?>
+		<?php include "inc/scripts.php"; ?>
 	</body>
 </html>
