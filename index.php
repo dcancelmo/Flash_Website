@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en-US">
+
 	<?php include "inc/head.inc";?>
+
+
 	<body>
 		<?php include "inc/menu.inc";?>
 		<article>

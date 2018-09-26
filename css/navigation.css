@@ -6,11 +6,17 @@
 /* THIS PAGE ISN'T LINKED YET...
 */
 
+
+body {
+	color: red;
+}
+
+/*
 nav ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	background-color: #94B888;
+	background-color: #9ABAE3;
 	border: 2px solid black;
 }
 
@@ -36,3 +42,5 @@ nav a:hover {
 
 .is-current {
 	background-color: black;
+
+*/
