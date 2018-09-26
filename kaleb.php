@@ -25,8 +25,8 @@
 		</article>
 
 		<footer>
-		<a href="http://www.csc174.org/assignment01/kchitap/index.html">Original Page</a> </footer>
-
+			<a href="http://www.csc174.org/assignment01/kchitap/index.html">Original Page</a>
+		</footer>
 		<?php include "inc/scripts.inc"; ?>
 	</body>
 </html>

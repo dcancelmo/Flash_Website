@@ -24,8 +24,8 @@
 		</article>
 
 		<footer>
-		<a href="http://csc174.org/assignment01/rrahman/assignment01/start.html">Original Page</a> </footer>
-
+			<a href="http://csc174.org/assignment01/rrahman/assignment01/start.html">Original Page</a>
+		</footer>
 		<?php include "inc/scripts.inc"; ?>
 	</body>
 </html>
