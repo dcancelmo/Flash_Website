@@ -3,9 +3,8 @@
 */
 
 
-/* THIS PAGE ISN'T LINKED YET...
+/* To do: the is-current highlighter
 */
-
 
 
 nav ul {
@@ -28,7 +27,7 @@ nav a {
 }
 
 nav a:visited {
-	color: #23628A;
+	color: white;
 }
 
 nav a:hover {
@@ -37,4 +36,5 @@ nav a:hover {
 
 
 .is-current {
-	background-color: black;
+	background-color: 374873;
+}
