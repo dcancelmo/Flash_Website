@@ -1,0 +1,56 @@
+header {
+	display: flex;
+	overflow: auto;
+	border: 5px solid #292929;
+	background-color: #d6d6d6;
+}
+
+header .logo-title, .logo-subtext {
+
+}
+
+header h1 {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	font-size: 2em;
+}
+
+header .logo {
+	margin: 0px;
+	float: left;
+	width: 70px;
+	height: 66.5px;
+	margin-right: 5px;
+}
+
+header .logo-subtext {
+	position: absolute;
+	top: 60px;
+	left: 94px;
+}
+
+header a:hover {
+	background-color: #d6d6d6;
+	color: #292929;
+}
+
+@media (max-width: 515px) {
+	header h1 {font-size: 1.5em;}
+}
+
+@media (max-width: 400px) {
+	header h1 {font-size: 1.3em;}
+}
+
+@media (max-width: 350px) {
+	
+}
+
+
+/* 
+Some code from Margaret Thurston's Project 3 for CSC 170 (no longer online)
+*/
+
+

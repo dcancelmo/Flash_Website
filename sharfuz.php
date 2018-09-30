@@ -4,7 +4,7 @@
 		$title = "Sharfuz Shifat";
 		include "inc/head.php";?>
 	<body>
-		<?php include "inc/banner.php";?>
+		<?php include "inc/banner.php";?><!-- This contains an h1 -->
 		<?php include "inc/menu.php";?>
 
 		<h2>Sharfuz Z Shifat</h2>
