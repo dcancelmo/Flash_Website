@@ -4,6 +4,7 @@
 		$title = "Reeshad Rahman";
 		include "inc/head.php";?>
 	<body>
+		<?php include "inc/banner.php";?>
 		<?php include "inc/menu.php";?>
 
 		<h1>Reeshad Rahman</h1>
