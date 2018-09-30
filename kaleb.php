@@ -21,7 +21,6 @@
 
 			<h2>Jobs</h2>
 			<p>The most noteworthy job I’ve had was as a canoe tripping guide for Camp Pathfinder, located in Algonquin Park Ontario. Camp Pathfinder acts as a host for kids from ages 7 to 15 looking to go on wilderness excursions. For my job as a guide, I was in charge of organizing, planning, and leading canoe trips for anywhere from two to fifteen days. A canoe trip consists of reaching different lakes each day by paddling and carrying the canoes. We pack all of our food and clothing into communal packs for 9 people at a time. The only thing we do not bring is firewood, which is collected at each campsite. All cooking is done over an open fire, regardless of weather or location. For this job I earned certifications such as: WFR (Wilderness First Responder), ORCKA (White Water Canoeing Certification), and Bronze Cross wilderness water safety.</p>
-
 		</article>
 
 		<footer>

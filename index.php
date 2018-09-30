@@ -3,9 +3,9 @@
 	<?php 
 		$title = "Student Pages";
 		include "inc/head.php";?>
-
 	<body>
 		<?php include "inc/menu.php";?>
+		
 		<h1>Our Website</h1>
 		<div>Meet Kaleb, Sharfuz and Reeshad: the minds behind the San Fran Team!</div>
 		<footer>

@@ -13,8 +13,8 @@
 		</figure>
 
 		<article>
+			
 			<h2>About Me</h2>
-
 			<p>I am an international student from Bangladesh studying at the University of Rochester, NY. I am double majoring in Computer Science and Economics. My home town is the capital of Bangladesh called Dhaka.</p>
 
 			<h2>College Life</h2>
@@ -25,9 +25,8 @@
 		</article>
 
 		<footer>
-		<a href= "http://csc174.org/assignment01/sshifat/Assignment01/index.html">Original page</a>
+			<a href= "http://csc174.org/assignment01/sshifat/Assignment01/index.html">Original page</a>
 		</footer>
-
 		<?php include "inc/scripts.php"; ?>
 	</body>
 </html>
