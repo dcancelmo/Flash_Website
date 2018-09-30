@@ -7,7 +7,7 @@
 		<?php include "inc/banner.php";?>
 		<?php include "inc/menu.php";?>
 		
-		<h1>Our Website</h1>
+		<h2>Our Website</h2>
 		<div>Meet Kaleb, Sharfuz and Reeshad: the minds behind the San Fran Team!</div>
 		
 	
@@ -30,7 +30,7 @@
 		
 
 		<footer>
-			<h2>Sources: </h2>
+			<h3>Sources: </h3>
 			<a href="http://www.csc174.org/assignment01/kchitap/index.html">Kaleb Chitaphong</a>
 			<a href= "http://csc174.org/assignment01/sshifat/Assignment01/index.html">Sharfuz Z Shifat</a>
 			<a href="http://csc174.org/assignment01/rrahman/assignment01/start.html">Reeshad Rahman</a>
