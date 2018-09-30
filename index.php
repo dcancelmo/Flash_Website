@@ -8,6 +8,30 @@
 		
 		<h1>Our Website</h1>
 		<div>Meet Kaleb, Sharfuz and Reeshad: the minds behind the San Fran Team!</div>
+		
+		<a href="kaleb.php">
+			<figure>
+				<img src="images/kaleb.jpg" alt="Kaleb Chitaphong">
+				<figcaption>Kaleb</figcaption>
+			</figure>
+		</a>
+
+
+		<a href="reeshad.php">
+			<figure>
+				<img src="images/reeshad.jpg" alt="Reeshad Rahman">
+				<figcaption>Reeshad</figcaption>
+			</figure>
+		</a>
+
+
+		<a href="sharfuz.php">
+			<figure>
+				<img src="images/sharfuz_sifat.jpg" alt="Sharfuz Z Shifat" >
+				<figcaption>Sharfuz</figcaption>
+			</figure>
+		</a>
+
 		<footer>
 			<h2>Sources: </h2>
 			<a href="http://www.csc174.org/assignment01/kchitap/index.html">Kaleb Chitaphong</a>
