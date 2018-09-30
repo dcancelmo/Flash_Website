@@ -9,28 +9,24 @@
 		<h1>Our Website</h1>
 		<div>Meet Kaleb, Sharfuz and Reeshad: the minds behind the San Fran Team!</div>
 		
-		<a href="kaleb.php">
-			<figure>
-				<img src="images/kaleb.jpg" alt="Kaleb Chitaphong">
-				<figcaption>Kaleb</figcaption>
-			</figure>
-		</a>
+	
+		<figure>
+			<a href="kaleb.php"><img src="images/kaleb.jpg" alt="Kaleb Chitaphong"></a>
+			<figcaption>Kaleb</figcaption>
+		</figure>
 
+		
+		<figure>
+			<a href="reeshad.php"><img src="images/reeshad.jpg" alt="Reeshad Rahman"></a>
+			<figcaption>Reeshad</figcaption>
+		</figure>
 
-		<a href="reeshad.php">
-			<figure>
-				<img src="images/reeshad.jpg" alt="Reeshad Rahman">
-				<figcaption>Reeshad</figcaption>
-			</figure>
-		</a>
-
-
-		<a href="sharfuz.php">
-			<figure>
-				<img src="images/sharfuz_sifat.jpg" alt="Sharfuz Z Shifat" >
-				<figcaption>Sharfuz</figcaption>
-			</figure>
-		</a>
+	
+		<figure>
+			<a href="sharfuz.php"><img src="images/sharfuz_sifat.jpg" alt="Sharfuz Z Shifat"></a>
+			<figcaption>Sharfuz</figcaption>
+		</figure>
+		
 
 		<footer>
 			<h2>Sources: </h2>
