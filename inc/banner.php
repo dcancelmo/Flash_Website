@@ -1,3 +1,6 @@
-<div>San Francisco Team</div>
+<h1>
+	<img src="images/bridge.jpg" alt="bridge">
+	San Francisco Team
+</h1>
 
 <!-- Inspired by Margaret Thurston's Project 3 for CSC 170 (no longer online) -->
