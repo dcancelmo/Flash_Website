@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+
 /* CSS inspired by:
 	http://csc174.org/assignment02/mthurston/  
 */
@@ -17,6 +20,25 @@ body {
 img {
 	border: 2px solid black;
 }
+
+h2 {
+	font-family: 'Lobster', cursive;
+	font-size: 40px;
+	padding: 10px;
+	background-color: #FFB699;
+	border: 2px solid black;
+	color: #DE2C20;
+}
+
+h3 {
+	padding: 10px;
+	background-color: #FFB699;
+	border: 2px solid black;
+	font-family: 'Lobster', cursive;
+}
+
+
+
 
 /*
 Saved colors:
