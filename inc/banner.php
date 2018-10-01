@@ -1,6 +1,6 @@
 <header>
 	<h1>
-		<img src="images/bridge.jpg" alt="bridge">
+		<img class="logo" src="images/bridge.jpg" alt="bridge">
 		San Francisco Team
 	</h1>
 </header>

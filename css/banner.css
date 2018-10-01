@@ -2,12 +2,9 @@ header {
 	display: flex;
 	overflow: auto;
 	border: 5px solid #292929;
-	background-color: #d6d6d6;
+	background-color: #FFB699;
 }
 
-header .logo-title, .logo-subtext {
-
-}
 
 header h1 {
 	margin-top: 5px;

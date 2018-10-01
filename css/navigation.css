@@ -31,10 +31,10 @@ nav a:visited {
 }
 
 nav a:hover {
-	background-color: #808080;
+	background-color: #DE2C20;
 }
 
 
 .is-current {
-	background-color: white;
+	background-color: #FFB699;
 }
