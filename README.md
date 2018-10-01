@@ -9,7 +9,6 @@ _This readme describes the layout of the San Francisco flash website. This websi
 **For convenience sake, profiles are arranged in alphabetical order of last name.** 
 In addition to the three profiles it also contains an index page, which simply actas as a welcome page to the website, and links back to all three of the profiles, as well as showcasing the sources for this data on the page._ 
 
-=======
 # Ontology
 This website is concerned with the profiles of three UR students in the CSC 174 class: the creators of the San Francisco flash website. It describes some personal details of their lives and background, their life in college and their job experience. It also provides a pathway back to the original documents from which these profiles were extracted.
 
@@ -19,7 +18,7 @@ The name of the person is considered the ultimate header, under which the secion
 # Choreography
 The various sections are presented in somewhat chronological order -- About Me covers biographical aspects such as parents and place of birth, after which we proceed to college. Job experience can be somewhat parallel to college life, but seems to make the most sense coming last. 
 **In terms of choice, the navigation arranges the students in alphabeitcal order of last name, simply for convenience.**
-========
+
 The general format is as follows:
 
 # Kaleb Chitaphong(Name of person being profiled)
