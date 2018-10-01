@@ -14,7 +14,6 @@
 		</figure>
 
 		<article>
-			
 			<h3>About Me</h3>
 			<p>I am an international student from Bangladesh studying at the University of Rochester, NY. I am double majoring in Computer Science and Economics. My home town is the capital of Bangladesh called Dhaka.</p>
 
